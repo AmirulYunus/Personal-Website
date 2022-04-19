@@ -1,0 +1,161 @@
+body{
+    margin: 0;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 40px;
+    margin: 40px auto 40px auto;
+}
+
+h1{
+    font-family: 'Parisienne', cursive;
+    font-size: 5rem;
+    margin: 0;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    margin: 40px auto 40px auto;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #393E46;
+    text-align: center;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted ;
+    border-color: rgb(33, 108, 143);
+    border-width: 5px;
+    width: 30%;
+}
+span{
+    text-decoration: underline;
+}
+
+.programmer{
+    color: #eeee;
+    font-size: 2rem;
+}
+
+.topCloud{
+    position: relative;
+    left: 250px;
+}
+
+.bottomCloud{
+    position: absolute;
+}
+
+.mountain{
+    position: relative;
+    top: 4px;
+}
+
+.firstParagraph{
+    display: block;
+    width: 50%;
+    margin: 10px auto 100px auto;
+}
+
+.me{
+    width: 15%;
+}
+.choosen{
+    width: 35%;
+}
+
+.skills{
+    text-align: left;
+    margin: 100px auto 100px auto;
+    display: block;
+    width: 50%;
+}
+.eachSkill{
+    margin: 50px auto 70px auto;
+}
+
+.skillList{
+    margin: 30px auto 30px auto;
+}
+.firstSkill{
+    margin-bottom: 100px;
+}
+
+.profile{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.topContainer{
+    text-align: center;
+    background-color: #92A9BD;
+    padding-top: 100px;
+}
+
+.middleContainer{
+    font-weight: normal;
+    font-size: 1.2rem;
+    background-color: #5584AC;
+    padding: 255px 0px 30px 0;
+}
+
+.bottomContainer{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #334257;
+    text-align: center;
+    padding: 30px;
+}
+
+.footer-link{
+    margin: 0% 10px 0% 10px;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(150, 167, 167);
+}
+
+.footer-link:hover{
+    color: #548CA8;
+}
+
+.btn {
+	background-color:#476072;
+	border-radius:28px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.btn:hover {
+	background-color:#334257;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.contactMe{
+    margin: 100px auto 70px auto;
+    text-align: center;
+}
+#lastLine{
+    margin: 20px auto 0px auto;
+    color: rgb(150, 167, 167);
+}
+#coding{
+    float: left;
+}
+#laptop{
+    float: right;
+}
